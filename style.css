@@ -2,8 +2,10 @@ html{
     font-family: 'Tektur';
     background-color: #EEEEEE;
     box-sizing: border-box;
-    position: fixed;
-    left: 10%;
+    position: relative;
+    left: 25%;
+    width: 50%;
+    top: 25%;
 }
 
 footer{
